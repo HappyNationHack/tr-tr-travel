@@ -1,5 +1,3 @@
-## [BackEnd NestJS App "Kryvyi Rih City Guide"](https://github.com/sunnystas/city-guide-nestjs)
-
 ### Install and run:
 
 1. `cp .env.sample .env` and fill it in with the required credentials
